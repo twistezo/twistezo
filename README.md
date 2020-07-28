@@ -23,8 +23,8 @@ Favorite tools:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/webpack.svg" />
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />
 
-### \_\_stats
+<!-- ### \_\_stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=twistezo&count_private=true&include_all_commits&hide=contribs&hide_title=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=twistezo&count_private=true&include_all_commits&hide=contribs&hide_title=true) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twistezo&layout=compact&hide_title=true) -->
