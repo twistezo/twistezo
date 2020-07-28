@@ -3,25 +3,25 @@
 ### < skills />
 
 Back-end:&nbsp;
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 
 Front-end:&nbsp;
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/vue-dot-js.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/vue-dot-js.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" />
 
 Graphics:&nbsp;
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" />
 
 Favorite tools:&nbsp;
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/graphql.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/webpack.svg" />
-<img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/graphql.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/webpack.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />
 
 ### < stats />
 
