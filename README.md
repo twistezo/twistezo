@@ -1,7 +1,5 @@
 ## Hi there 🚀
 
-### \_\_skills
-
 Back-end:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
