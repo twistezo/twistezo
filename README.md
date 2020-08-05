@@ -23,6 +23,8 @@ Favorite tools:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/webpack.svg" />
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />
 
+![image](https://github.com/twistezo/twistezo/blob/master/dino.gif)
+
 <!-- ### \_\_stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=twistezo&count_private=true&include_all_commits&hide=contribs&hide_title=true) -->
