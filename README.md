@@ -23,7 +23,7 @@ Favorite tools:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/webpack.svg" />
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />
 
-![image](https://github.com/twistezo/twistezo/blob/master/dino2.gif)
+![image](https://github.com/twistezo/twistezo/blob/master/dino.gif)
 
 <!-- ### \_\_stats
 
