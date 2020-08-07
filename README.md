@@ -2,8 +2,8 @@
 
 Back-end:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" />
-<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
+<img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 
 Front-end:&nbsp;
 <img height="24" width="24" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
