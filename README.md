@@ -4,7 +4,7 @@
 
 #### :point_right: check my <a href="https://github.com/twistezo/code-samples">code samples</a>
 
-#### :point_right: check my <a href="https://github.com/twistezo?tab=packages">npm packages</a>
+#### :point_right: check my <a href="https://www.npmjs.com/~twistezo">npm packages</a>
 
 #### :point_right: check my <a href="https://codesandbox.io/u/twistezo">CodeSandbox</a>
 
