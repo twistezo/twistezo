@@ -7,5 +7,3 @@
 #### :point_right: check my <a href="https://www.npmjs.com/~twistezo">npm packages</a>
 
 #### :point_right: check my <a href="https://codesandbox.io/u/twistezo">CodeSandbox</a>
-
-![image](https://github.com/twistezo/twistezo/blob/master/dino.gif)
