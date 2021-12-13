@@ -2,15 +2,10 @@
 
 #### Check my
 
-#### :point_right: <a href="https://github.com/twistezo/articles">programming articles</a>
-
-#### :point_right: <a href="https://github.com/twistezo/code-samples">code samples</a>
-
-#### :point_right: <a href="https://www.npmjs.com/~twistezo">npm packages</a>
-
-#### :point_right: <a href="https://codesandbox.io/u/twistezo">CodeSandbox</a>
-
----
+- <a href="https://github.com/twistezo/articles">programming articles</a>
+- <a href="https://github.com/twistezo/code-samples">code samples</a>
+- <a href="https://www.npmjs.com/~twistezo">npm packages</a>
+- <a href="https://codesandbox.io/u/twistezo">CodeSandbox</a>
 
 ### :christmas_tree: Adevent of Code 2021
 
