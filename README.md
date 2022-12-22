@@ -1,5 +1,3 @@
-#### Check my
-
 - <a href="https://github.com/twistezo/articles">programming articles</a>
 - <a href="https://www.npmjs.com/~twistezo">npm packages</a>
 - <a href="https://github.com/twistezo/spoj">SPOJ solutions [Rust]</a>
