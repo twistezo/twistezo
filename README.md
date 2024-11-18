@@ -2,7 +2,6 @@
 ---
 config:
   look: handDrawn
-  # theme: neutral
   securityLevel: antiscript
   flowchart:
     diagramPadding: 0
@@ -20,7 +19,7 @@ flowchart LR
 
     BLOG --- NPM --- CODE
     CODE --> A
-    CODE --> B ~~~ END:::HIDDEN ~~~ END:::HIDDEN
+    CODE --> B ~~~ END:::hidden ~~~ END:::hidden
     CODE --> C
 
     click BLOG href "https://twistezo.github.io/blog/" "Tooltip" _blank
@@ -29,7 +28,7 @@ flowchart LR
     click B href "https://github.com/twistezo/advent-of-code-2021" "Tooltip" _blank
     click C href "https://github.com/twistezo/advent-of-code-2021" "Tooltip" _blank
 
-    classDef HIDDEN display: none;
-    %% classDef styles fill:#fff
-    %% class BLOG,NPM,CODE,A,B,C styles
+    classDef link text-decoration: none
+    classDef hidden display: none
+    class BLOG,NPM,CODE,A,B,C link
 ```
