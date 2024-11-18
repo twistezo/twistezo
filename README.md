@@ -20,9 +20,8 @@ flowchart LR
 
     BLOG --- NPM --- CODE
     CODE --> A
-    CODE --> B
+    CODE --> B ~~~ END:::HIDDEN ~~~ END:::HIDDEN
     CODE --> C
-    B ~~~ END:::HIDDEN
 
     click BLOG href "https://twistezo.github.io/blog/" "Tooltip" _blank
     click NPM href "https://www.npmjs.com/~twistezo" "Tooltip" _blank
