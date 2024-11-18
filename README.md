@@ -19,7 +19,7 @@ flowchart LR
 
     BLOG --- NPM --- CODE
     CODE --> A
-    CODE --> B ~~~ END ~~~ END
+    CODE --> B ~~~ END
     CODE --> C
 
     click BLOG href "https://twistezo.github.io/blog/" _blank
