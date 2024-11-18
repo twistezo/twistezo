@@ -4,6 +4,11 @@ config:
   look: handDrawn
   # theme: neutral
   securityLevel: antiscript
+  flowchart:
+    diagramPadding: 0
+    nodeSpacing: 10
+    rankSpacing: 50
+    padding: 10
 ---
 flowchart LR
     BLOG(blog about programming)
