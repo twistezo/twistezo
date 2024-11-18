@@ -30,6 +30,6 @@ flowchart LR
 
     classDef hidden display: none
     class END hidden
-    class BLOG,NPM,CODE,A,B,C link
     classDef link text-decoration: none
+    class BLOG,NPM,CODE,A,B,C link
 ```
