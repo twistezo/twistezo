@@ -2,7 +2,7 @@
 ---
 config:
   look: handDrawn
-  theme: neutral
+  # theme: neutral
   securityLevel: antiscript
 ---
 flowchart LR
@@ -24,6 +24,6 @@ flowchart LR
     click B href "https://github.com/twistezo/advent-of-code-2021" "Tooltip" _blank
     click C href "https://github.com/twistezo/advent-of-code-2021" "Tooltip" _blank
 
-    classDef styles fill:#fff
-    class BLOG,NPM,CODE,A,B,C styles
+    %% classDef styles fill:#fff
+    %% class BLOG,NPM,CODE,A,B,C styles
 ```
