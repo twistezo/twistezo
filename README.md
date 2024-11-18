@@ -5,7 +5,7 @@ config:
   # theme: neutral
   securityLevel: antiscript
   flowchart:
-    diagramPadding: 200
+    diagramPadding: 0
     nodeSpacing: 10
     rankSpacing: 50
     padding: 10
