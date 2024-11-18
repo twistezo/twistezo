@@ -7,7 +7,7 @@ config:
     diagramPadding: 0
     nodeSpacing: 15
     rankSpacing: 50
-    padding: 15
+    padding: 10
 ---
 flowchart LR
     BLOG(blog)
