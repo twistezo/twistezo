@@ -6,9 +6,9 @@ config:
   securityLevel: antiscript
   flowchart:
     diagramPadding: 0
-    nodeSpacing: 10
+    nodeSpacing: 15
     rankSpacing: 50
-    padding: 10
+    padding: 15
 ---
 flowchart LR
     BLOG(blog about programming)
