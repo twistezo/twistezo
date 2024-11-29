@@ -26,7 +26,7 @@ flowchart LR
     click NPM href "https://www.npmjs.com/~twistezo" _blank
     click A href "https://github.com/twistezo/spoj-tournament" _blank
     click B href "https://github.com/twistezo/advent-of-code-2021" _blank
-    click C href "https://github.com/twistezo/advent-of-code-2021" _blank
+    click C href "https://github.com/twistezo/advent-of-code-2022" _blank
 
     classDef hidden display: none
     class END hidden
